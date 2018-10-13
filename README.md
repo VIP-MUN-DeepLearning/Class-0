@@ -112,6 +112,7 @@ Install Tensorflow
    ## Packages you need to start coding and playing with CNN
    
    In anaconda prompt 
+   
                pip install numpy scipy
                pip install msgpack  (optional)
                pip install matplotlib
