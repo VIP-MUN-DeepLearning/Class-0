@@ -106,7 +106,7 @@ Install Tensorflow
    
    It's meant for Ubuntu but it might be useful for windows too [my Github](https://github.com/Abdelpakey?tab=repositories).
    
-   If you don't have a machine with previous prerequisites or you dont have GPU you can use a free Gpu from Google [Colab]   (https://colab.research.google.com) 
+   If you don't have a machine with previous prerequisites or you dont have GPU you can use a free Gpu from Google [Colab](https://colab.research.google.com) 
    
    
 
