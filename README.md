@@ -3,7 +3,7 @@ Installing Anaconda, Cuda, cuDNN, and Tensorflow on windows 7/8/10
 
 Please make sure you have Nvidia GPU (from Windows Device Manager) if you dont have, you can use your CPU but becarful when you install Tensorflow, just use the CPU version.
 
-## Prerequisite
+## Prerequisites
 - [x] Windows 7/8/10.
 - [x] At least 8GB RAM.
 - [x] At least Processor core I3.
@@ -104,7 +104,9 @@ Install Tensorflow
    
    IF you have any other issues you can look into my repositries I have highlighted the most common issues and their solutions.
    
-   It's meant for Ubuntu but it might be useful for windows too [my Github](https://github.com/Abdelpakey?tab=repositories)
+   It's meant for Ubuntu but it might be useful for windows too [my Github](https://github.com/Abdelpakey?tab=repositories).
+   
+   If you don't have a machine with previous prerequisites or you dont have GPU you can use a free Gpu from Google [Colab]   (https://colab.research.google.com) 
    
    
 
