@@ -104,7 +104,7 @@ Install Tensorflow
    
    IF you have any other issues you can look into my repositries I have highlighted the most common issues and their solutions.
    
-   It's meant for Ubuntue but it might be useful for windows too [my Github](https://github.com/Abdelpakey?tab=repositories)
+   It's meant for Ubuntu but it might be useful for windows too [my Github](https://github.com/Abdelpakey?tab=repositories)
    
    
 
