@@ -1,5 +1,5 @@
 # Class-0
-Installing Anaconda and Tensorflow on windows 10 
+Installing Anaconda, Cuda, cuDNN, and Tensorflow on windows 7/8/10
 
 Please make sure you have Nvidia GPU (from Windows Device Manager) if you dont have, you can use your CPU but becarful when you install Tensorflow, just use the CPU version.
 
