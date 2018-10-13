@@ -108,9 +108,9 @@ Install Tensorflow
    
    If you don't have a machine with previous prerequisites or you dont have GPU you can use a free Gpu from Google [Colab](https://colab.research.google.com).
    
-   Google colab has also TPU (tensor processing unit) which is faster than the typical GPU from 15 to 30 times. Use it only with large and deep networks otherwise you will not feel its speed.
+   Google colab has also TPU (tensor processing unit) which is faster than the typical GPU from 15 to 30 times. Use it only with large and deep networks otherwise you will not feel its speed and it might be slower.
    
-   TPU works only with deep networks so don't expect that it would be much faster when it comes to object oriented, large datbases ...
+   TPU works only with deep networks so don't expect that it would be much faster when it comes to object oriented, large databases ...
    
    
 
