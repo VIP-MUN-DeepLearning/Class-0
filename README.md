@@ -40,7 +40,7 @@ then open-up your anaconda and install spyder again
 #### Open-up Anaconda prompt
 ![Anaconda](./pics/Capture2.JPG)
 #### Creat a new enviroment with any name (e.g. tf)
-conda create -n tf python=3.6 pip
+    conda create -n tf python=3.6 pip
 ### Step-2
 In Anaonda prompt type in
 
@@ -87,7 +87,8 @@ Note: you must have an account to download cuDNN (it's free)
 ## Step-3
 Install Tensorflow
 
-- [x] Open Spyder and creat an enviroment conda create -n tf python=3.6 pip
+- [x] Open Spyder and creat an enviroment 
+               conda create -n tf python=3.6 pip
 
   This is for python ver 3.6 you can change it to be 3.7 but I never used pyhon 3.7 so I don't know if it's gonna work or not.
   
