@@ -87,7 +87,8 @@ Note: you must have an account to download cuDNN (it's free)
 ## Step-3
 Install Tensorflow
 
-- [x] Open Spyder and creat an enviroment 
+- [x] Open Spyder and creat an enviroment
+
                conda create -n tf python=3.6 pip
 
   This is for python ver 3.6 you can change it to be 3.7 but I never used pyhon 3.7 so I don't know if it's gonna work or not.
